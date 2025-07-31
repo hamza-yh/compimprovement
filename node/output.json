@@ -1,0 +1,1088 @@
+[
+  {
+    "id": 1,
+    "name": "Komahal Eswaran",
+    "wcaId": "2022ESWA01",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 2190,
+        "newTime": 2542,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 2792,
+        "newTime": 2698,
+        "value": 4.0707096114434975
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 10233,
+        "newTime": 17913,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": 12914,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 3537,
+        "newTime": 6810,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 5548,
+        "newTime": 0,
+        "value": 0
+      }
+    ],
+    "totalScore": 4.0707096114434975
+  },
+  {
+    "id": 3,
+    "name": "Aadhiran Thangarathan",
+    "wcaId": "2019THAN04",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1019,
+        "newTime": 1046,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1233,
+        "newTime": 1179,
+        "value": 17.135179281818942
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 32772,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": null,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 2235,
+        "newTime": 2752,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 2739,
+        "newTime": 2859,
+        "value": 0
+      }
+    ],
+    "totalScore": 17.135179281818942
+  },
+  {
+    "id": 5,
+    "name": "Jae Park",
+    "wcaId": "2015PARK24",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1684,
+        "newTime": 3019,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 2257,
+        "newTime": 3448,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 4340,
+        "newTime": 3072,
+        "value": 44.88448844884477
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": 6682,
+        "newTime": 4330,
+        "value": 47.85194976867153
+      }
+    ],
+    "totalScore": 92.73643821751631
+  },
+  {
+    "id": 6,
+    "name": "Varnika Sri Palli",
+    "wcaId": "2023PALL04",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1092,
+        "newTime": 1162,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1400,
+        "newTime": 1440,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 13930,
+        "newTime": 19571,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": null,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 3181,
+        "newTime": 3107,
+        "value": 3.415298501878281
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 3635,
+        "newTime": 4267,
+        "value": 0
+      }
+    ],
+    "totalScore": 3.415298501878281
+  },
+  {
+    "id": 7,
+    "name": "Krishanth Thangarathan",
+    "wcaId": "2019THAN05",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1025,
+        "newTime": 1225,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1218,
+        "newTime": 1457,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 5364,
+        "newTime": 10609,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": 9907,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 1994,
+        "newTime": 2288,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 2474,
+        "newTime": 2687,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 8,
+    "name": "B S Sai Krishna Rangan",
+    "wcaId": "2025RANG05",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 3600,
+        "newTime": 3323,
+        "value": 5.672338457918489
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 4150,
+        "newTime": 3548,
+        "value": 11.7673545110757
+      }
+    ],
+    "totalScore": 17.439692968994187
+  },
+  {
+    "id": 9,
+    "name": "Sukesh Kumar",
+    "wcaId": "2017KUMA30",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 979,
+        "newTime": 1256,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1373,
+        "newTime": 1687,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 4550,
+        "newTime": 6574,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": 8496,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 1904,
+        "newTime": 1929,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 2579,
+        "newTime": 2587,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 10,
+    "name": "Bhargav Sunnam",
+    "wcaId": "2024SUNN02",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 3995,
+        "newTime": 4067,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 4757,
+        "newTime": 4369,
+        "value": 5.383148788297321
+      }
+    ],
+    "totalScore": 5.383148788297321
+  },
+  {
+    "id": 11,
+    "name": "Thanvi S V",
+    "wcaId": "2025VTHA01",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 6223,
+        "newTime": 4198,
+        "value": 14.628758471998161
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 7032,
+        "newTime": 4744,
+        "value": 15.850918059742384
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": null,
+        "newTime": 11360,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": null,
+        "newTime": 0,
+        "value": 0
+      }
+    ],
+    "totalScore": 30.479676531740544
+  },
+  {
+    "id": 12,
+    "name": "Yusuf Shoaib Khan",
+    "wcaId": null,
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": null,
+        "newTime": 3280,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": null,
+        "newTime": 3764,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": null,
+        "newTime": 8315,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": null,
+        "newTime": 0,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 13,
+    "name": "Ramcharan Putta",
+    "wcaId": "2023PUTT01",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 940,
+        "newTime": 1018,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1087,
+        "newTime": 1165,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 2346,
+        "newTime": 2749,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 2626,
+        "newTime": 3697,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 14,
+    "name": "Surya N B",
+    "wcaId": "2025BSUR01",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 7878,
+        "newTime": 6449,
+        "value": 3.5889281626948404
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 8697,
+        "newTime": 7620,
+        "value": 2.6597623182227657
+      }
+    ],
+    "totalScore": 6.248690480917606
+  },
+  {
+    "id": 15,
+    "name": "Vivek Prasad Mada",
+    "wcaId": "2012MADA01",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1006,
+        "newTime": 1294,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1235,
+        "newTime": 1437,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 4412,
+        "newTime": 4489,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": 5915,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 1467,
+        "newTime": 1754,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 1813,
+        "newTime": 1950,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 17,
+    "name": "Abhinav Rajesh",
+    "wcaId": "2025RAJE04",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1856,
+        "newTime": 1739,
+        "value": 10.242200671017718
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1945,
+        "newTime": 2069,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 4030,
+        "newTime": 4490,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 4476,
+        "newTime": 5130,
+        "value": 0
+      }
+    ],
+    "totalScore": 10.242200671017718
+  },
+  {
+    "id": 18,
+    "name": "Chinmay Sriram",
+    "wcaId": "2018SRIR03",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1162,
+        "newTime": 1185,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1378,
+        "newTime": 1358,
+        "value": 4.859839168280179
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": null,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": null,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 3323,
+        "newTime": 2615,
+        "value": 31.333154619975435
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 3931,
+        "newTime": 2867,
+        "value": 42.076395096895396
+      }
+    ],
+    "totalScore": 78.26938888515102
+  },
+  {
+    "id": 19,
+    "name": "Shaun Elias Pinto",
+    "wcaId": "2017PINT02",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 884,
+        "newTime": 1212,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1200,
+        "newTime": 1391,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": null,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": null,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 3281,
+        "newTime": 2455,
+        "value": 38.1474518133674
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 3948,
+        "newTime": 3095,
+        "value": 32.643775142758145
+      }
+    ],
+    "totalScore": 70.79122695612554
+  },
+  {
+    "id": 20,
+    "name": "Mathew Jose Tony",
+    "wcaId": "2024TONY01",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1855,
+        "newTime": 1705,
+        "value": 13.293461857587543
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 2220,
+        "newTime": 2205,
+        "value": 1.0864824140529081
+      }
+    ],
+    "totalScore": 14.37994427164045
+  },
+  {
+    "id": 22,
+    "name": "Atharva Mileend Khandale",
+    "wcaId": "2024KHAN25",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1097,
+        "newTime": 1064,
+        "value": 10.072856490580275
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1322,
+        "newTime": 1299,
+        "value": 6.460985895599173
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 12233,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": null,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 2364,
+        "newTime": 2383,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 2711,
+        "newTime": 2915,
+        "value": 0
+      }
+    ],
+    "totalScore": 16.533842386179447
+  },
+  {
+    "id": 23,
+    "name": "Darsheel Aditya Mogalapalli",
+    "wcaId": null,
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": null,
+        "newTime": 6257,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": null,
+        "newTime": 7198,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 24,
+    "name": "Manvik Chintala",
+    "wcaId": "2024CHIN22",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 3136,
+        "newTime": 3351,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 4196,
+        "newTime": 4376,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 25,
+    "name": "Greehith Annabathina",
+    "wcaId": "2022ANNA01",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 870,
+        "newTime": 1335,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1148,
+        "newTime": 1476,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 3063,
+        "newTime": 5879,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": 4230,
+        "newTime": -1,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 1381,
+        "newTime": 2269,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 1995,
+        "newTime": 2441,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 26,
+    "name": "Hridhaan Vyankatesh Ambat",
+    "wcaId": "2024AMBA04",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1227,
+        "newTime": 1172,
+        "value": 12.999214757056807
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1388,
+        "newTime": 1297,
+        "value": 21.463481089181407
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 3544,
+        "newTime": 3357,
+        "value": 6.228527386970761
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 4011,
+        "newTime": 3920,
+        "value": 2.8697669607365133
+      }
+    ],
+    "totalScore": 43.560990193945486
+  },
+  {
+    "id": 27,
+    "name": "Sriram Kartik Pillutla",
+    "wcaId": "2025PILL02",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 1108,
+        "newTime": 794,
+        "value": 76.09960258797777
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1293,
+        "newTime": 1245,
+        "value": 13.422848241514728
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 3107,
+        "newTime": 3064,
+        "value": 1.9617261950879323
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 3685,
+        "newTime": 3311,
+        "value": 15.45174452493963
+      }
+    ],
+    "totalScore": 106.93592154952006
+  },
+  {
+    "id": 28,
+    "name": "Harsh Arvind Shelwatkar",
+    "wcaId": "2016SHEL02",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 631,
+        "newTime": 716,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 807,
+        "newTime": 843,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 904,
+        "newTime": 1044,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 1092,
+        "newTime": 1143,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 29,
+    "name": "Akshat Dubey",
+    "wcaId": null,
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": null,
+        "newTime": 1758,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": null,
+        "newTime": 1813,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 30,
+    "name": "Pratyush Anand",
+    "wcaId": "2025ANAN03",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 3030,
+        "newTime": 2614,
+        "value": 12.849202203363863
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 3401,
+        "newTime": 3383,
+        "value": 0.4981520706543404
+      }
+    ],
+    "totalScore": 13.347354274018203
+  },
+  {
+    "id": 31,
+    "name": "Anshuman Singh",
+    "wcaId": "2014SING04",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 944,
+        "newTime": 920,
+        "value": 10.41526533791197
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 1090,
+        "newTime": 1085,
+        "value": 2.349809536922483
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 2116,
+        "newTime": 2024,
+        "value": 11.176758609433648
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 2395,
+        "newTime": 2466,
+        "value": 0
+      }
+    ],
+    "totalScore": 23.941833484268102
+  },
+  {
+    "id": 32,
+    "name": "Rithwik Ashok",
+    "wcaId": null,
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": null,
+        "newTime": 2973,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": null,
+        "newTime": 3126,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": null,
+        "newTime": 8227,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": null,
+        "newTime": 0,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  },
+  {
+    "id": 33,
+    "name": "Aditya Arunkumar",
+    "wcaId": "2021ARUN01",
+    "results": [
+      {
+        "event": "333",
+        "type": "single",
+        "oldTime": 679,
+        "newTime": 792,
+        "value": 0
+      },
+      {
+        "event": "333",
+        "type": "average",
+        "oldTime": 775,
+        "newTime": 879,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "single",
+        "oldTime": 6107,
+        "newTime": 6751,
+        "value": 0
+      },
+      {
+        "event": "333bf",
+        "type": "average",
+        "oldTime": null,
+        "newTime": 7867,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "single",
+        "oldTime": 1170,
+        "newTime": 1525,
+        "value": 0
+      },
+      {
+        "event": "333oh",
+        "type": "average",
+        "oldTime": 1640,
+        "newTime": 1812,
+        "value": 0
+      }
+    ],
+    "totalScore": 0
+  }
+]
